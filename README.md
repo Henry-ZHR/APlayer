@@ -1,5 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://github.com/rRemix/APlayer/blob/master/LICENSE)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&style=flat-square)](https://t.me/joinchat/PqrPPBbM4poRPDH7qnXxLw "Join Telegram Group")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHenry-ZHR%2FAPlayer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHenry-ZHR%2FAPlayer?ref=badge_shield)
 
 # [中文](/README_CN.md)
 
@@ -49,3 +50,7 @@
 - If you have any question,you can send email to rRemix.me@gmail.com,open an issue or join [tg group](https://t.me/joinchat/PqrPPBbM4poRPDH7qnXxLw)
 
 ## [Change Log](/UPDATE.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHenry-ZHR%2FAPlayer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHenry-ZHR%2FAPlayer?ref=badge_large)
